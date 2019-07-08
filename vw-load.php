@@ -1,20 +1,16 @@
-<?php 
-
-// Connect to DataBase
-
-$hostname = 'localhost';
-$username = 'root';
-$password = '';
-
-
-try {
-
-	$dbconnect = new PDO("mysql:host=$hostname;dbname=vector_web",$username,$password);
-
-	$dbconnect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-} catch (PDOexception $e) {
-
-	print "Error ! : " .$e->getMessage(). "</br>";
-
-}
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Bienvenue !</title>
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="author" href="humans.txt">
+    </head>
+    <body>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
