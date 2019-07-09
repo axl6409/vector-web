@@ -12,7 +12,7 @@
         <link rel="author" href="humans.txt">
     </head>
     <body>
-
+		
         
         <section id="Connexion" class="connexion">
 
@@ -26,6 +26,8 @@
 
 
 	<?php
+				// 32147Ee89
+
 
 
 	if (isset($_POST['login'])) {
@@ -44,7 +46,7 @@
 
 			$_SESSION['admin_id'] = $logAdmin['ID'];
 			$_SESSION['admin_pseudo'] = $logAdmin['user_name'];
-			$right_notif_connect = "You're Connect " .$logAdmin['user_name']. " !";
+			$right_notif_connect = "Tu est connecté " .$logAdmin['user_name']. " ! :)";
 
 			print $right_notif_connect;
 
