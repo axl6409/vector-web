@@ -26,8 +26,6 @@
 
 
 	<?php
-				// 32147Ee89
-
 
 
 	if (isset($_POST['login'])) {
