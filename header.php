@@ -5,24 +5,33 @@
 		<meta charset="UTF-8">
 		<title>Titre Du Site</title>
 		<link rel="stylesheet" href="css/lib/reset.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 
 	<body>
-		<header class="header">
+		<header class="header navbar fixed-top navbar-dark bg-dark ">
 			<div class="header_logo">
 				<img src="assets/images/logo_black.svg" alt="logo du site">
 			</div>
 
-			<div class="nav_container">
-				<ul>
-					<li>Lien 1</li>
-					<li>Lien 2</li>
-					<li>Lien 3</li>
-					<li>Lien 4</li>
+			<nav>
+				<ul  class="nav justify-content-center">
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#">Link</a>
+					</li>
 				</ul>
-			</div>
+			</nav>
 
 			<div class="account_button">
 				<button type="button" ><a href="vw-admin/vw-admin.php">Mon Compte</a></button>
@@ -35,8 +44,9 @@
 			<img class="kenburns-top" src="assets/images/background_keyboard.jpg" alt="clavier d'ordinateur rétroéclairé">
 
 			<div class="home_hero_text">
-				<h1>Vector Web</h1>
-				<p>Création de votre site web</p>
+				<h1 class="hero_title">Vector Web</h1>
+
+				<p class="hero_description">Création de votre site web</p>
 			</div>
 
 		</section>
