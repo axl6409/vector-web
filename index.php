@@ -1,8 +1,25 @@
 
 <?php require("header.php"); ?>		
 
-		<main id="main" class="main_container">
-			
+		<main id="main" class="main_container">	
+
+			<section id="creation" class="creation">
+
+				<div class="creation_description">
+					<h2>La création de votre site web sur mesure !</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio assumenda excepturi accusantium dignissimos ad suscipit quisquam minima quasi quaerat vitae. Impedit sapiente saepe, ducimus magni alias odit eaque assumenda molestiae.</p>
+				</div>
+				
+
+				<div class="col-md-6 offset-md-3">
+					
+					
+
+				</div>
+
+			</section>
+	
+
 			<section id="projects" class="projects">
 
 				<h2 class="projects_title">Mes Derniers Projets</h2>
@@ -38,44 +55,11 @@
 
 			</section> <!-- container end -->
 
-			<section id="creation" class="creation">
 
-				<div class="creation_description">
-					<h2>La création de votre site web sur mesure !</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio assumenda excepturi accusantium dignissimos ad suscipit quisquam minima quasi quaerat vitae. Impedit sapiente saepe, ducimus magni alias odit eaque assumenda molestiae.</p>
-				</div>
+			<section>
 				
-
-				<div class="col-md-6 offset-md-3">
+				<div>
 					
-					<ol class="timeline">
-						<li>
-							<a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
-							<a href="#" class="float-right">21 March, 2014</a>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-						</li>
-						<li>
-							<a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
-							<a href="#" class="float-right">21 March, 2014</a>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-						</li>
-						<li>
-							<a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
-							<a href="#" class="float-right">21 March, 2014</a>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-						</li>
-						<li>
-							<a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
-							<a href="#" class="float-right">21 March, 2014</a>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-						</li>
-						<li>
-							<a target="_blank" href="https://www.totoprayogo.com/#">New Web Design</a>
-							<a href="#" class="float-right">21 March, 2014</a>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula....</p>
-						</li>
-					</ol>
-
 				</div>
 
 			</section>

@@ -4,14 +4,13 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Titre Du Site</title>
-		<link rel="stylesheet" href="css/lib/reset.css">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="sass/custom/public/global.css">
 	</head>
 
 	<body>
-		<header class="header navbar fixed-top navbar-dark bg-dark ">
+		<header class="header navbar fixed-top navbar-dark bg-dark ss-style-triangles">
 			<div class="header_logo">
 				<img src="assets/images/logo_black.svg" alt="logo du site">
 			</div>
@@ -41,7 +40,7 @@
 
 		<section id="hero" class="home_hero">
 			
-			<img class="kenburns-top" src="assets/images/background_keyboard.jpg" alt="clavier d'ordinateur rétroéclairé">
+			<div class="header_img"></div>
 
 			<div class="home_hero_text">
 				<h1 class="hero_title">Vector Web</h1>
@@ -50,5 +49,8 @@
 			</div>
 
 		</section>
+
+
+
 
 		
