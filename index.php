@@ -13,7 +13,23 @@
 
 				<div class="col-md-6 offset-md-3">
 					
-					
+					<div class="creation_block_l">
+						<ul>
+							<li></li>
+							<li></li>
+						</ul>
+					</div>
+					<div class="creation_block_c">
+						<div>
+							<img src="" alt="">
+						</div>
+					</div>
+					<div class="creation_block_r">
+						<ul>
+							<li></li>
+							<li></li>
+						</ul>
+					</div>
 
 				</div>
 
