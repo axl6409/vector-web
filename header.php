@@ -48,7 +48,16 @@
 				<p class="hero_description">Création de votre site web</p>
 			</div>
 
+			<div id="section1">
+			  	<svg width="100%" height="100" viewBox="0 0 100 102" preserveAspectRatio="none">
+			  		<path d="M0 0 L50 95 L100 0 V100 H0" fill="rgba(255,255,255,0.3)" />
+			    	<path d="M0 20 L50 95 L100 20 V100 H0" fill="rgba(255,255,255,0.5)" />
+			    	<path d="M0 40 L50 95 L100 40 V100 H0" fill="rgba(255,255,255,1)" />
+			  	</svg>
+			</div>
+
 		</section>
+
 
 
 

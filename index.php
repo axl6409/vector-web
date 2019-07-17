@@ -3,26 +3,39 @@
 
 		<main id="main" class="main_container">	
 
-			<section id="creation" class="creation">
+			<section id="intro slide" class="intro" data-background="#fff">
 
-				<div class="creation_description">
+				<div class="home_section_head">
 					<h2>La création de votre site web sur mesure !</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio assumenda excepturi accusantium dignissimos ad suscipit quisquam minima quasi quaerat vitae. Impedit sapiente saepe, ducimus magni alias odit eaque assumenda molestiae.</p>
-				</div>
-				
-
-				<div class="col-md-6 offset-md-3">
 					
-					
+				</div>
+
+				<div class="container">
+
+					<div class="row">
+						
+						<div class="col-md-6">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio assumenda excepturi accusantium dignissimos ad suscipit quisquam minima quasi quaerat vitae. Impedit sapiente saepe, ducimus magni alias odit eaque assumenda molestiae.</p>
+						</div>
+
+						<div class="col-md-6">
+							<img src="#" alt="">
+						</div>
+
+					</div>
 
 				</div>
+
 
 			</section>
 	
 
-			<section id="projects" class="projects">
-
-				<h2 class="projects_title">Mes Derniers Projets</h2>
+			<section id="projects slide" class="projects" data-background="#5FFBF1">
+				
+				<div class="home_section_head">
+					<h2>Mes Derniers Projets</h2>
+				</div>
+				
 			
 				<div class="container">
 					
@@ -56,8 +69,66 @@
 			</section> <!-- container end -->
 
 
-			<section>
+			<section id="services slide" class="services" data-background="#86A8E7">
+
+				<div class="home_section_head">
+					<h2>Quels Services ?</h2>
+				</div>
 				
+				<div class="container">
+
+					<div class="row">
+						
+						<div class="col-md-6">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio assumenda excepturi accusantium dignissimos ad suscipit quisquam minima quasi quaerat vitae. Impedit sapiente saepe, ducimus magni alias odit eaque assumenda molestiae.</p>
+						</div>
+
+						<div class="col-md-6">
+							
+							<div class="creation_blocks">
+								<span></span>
+								<h3>Creation d'un Site Web</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia eveniet recusandae ratione aliquam minus fugit doloremque deserunt.</p>
+							</div>
+
+							<div class="creation_blocks">
+								<span></span>
+								<h3>Maintenance de votre site</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia eveniet recusandae ratione aliquam minus fugit doloremque deserunt.</p>
+							</div>
+
+							<div class="creation_blocks">
+								<span></span>
+								<h3>Créations de vos réseaux sociaux</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia eveniet recusandae ratione aliquam minus fugit doloremque deserunt.</p>
+							</div>
+
+							<div class="creation_blocks">
+								<span></span>
+								<h3>Responsive Design</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia eveniet recusandae ratione aliquam minus fugit doloremque deserunt.</p>
+							</div>
+
+							<div class="creation_blocks">
+								<span></span>
+								<h3>Référencement naturel</h3>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia eveniet recusandae ratione aliquam minus fugit doloremque deserunt.</p>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</section>
+
+			<section id="contact slide" class="contact" data-background="#D16BA5">
+				
+				<div class="home_section_head">
+					<h2>Pour me contacter</h2>
+				</div>
+
 				<div>
 					
 				</div>
