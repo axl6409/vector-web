@@ -10,7 +10,6 @@
 					
 				</div>
 
-<<<<<<< HEAD
 				<div class="container">
 
 					<div class="row">
@@ -23,7 +22,6 @@
 							<img src="#" alt="">
 						</div>
 
-=======
 				<div class="col-md-6 offset-md-3">
 					
 					<div class="creation_block_l">
@@ -42,7 +40,7 @@
 							<li></li>
 							<li></li>
 						</ul>
->>>>>>> ea6aabc48386c4794e19e59b3b3cf67aaa2041e7
+
 					</div>
 
 				</div>
